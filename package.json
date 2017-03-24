@@ -1,12 +1,12 @@
 {
   "name": "bunsen-burner",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [
     "ember-addon"
   ],
-  "license": "MIT",
-  "author": "",
+  "license": "SEE LICENSE IN LICENSE",
+  "author": "Matthew Dahl (https://github.com/sandersky)",
   "directories": {
     "doc": "doc",
     "test": "tests"
